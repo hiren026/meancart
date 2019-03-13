@@ -10,3 +10,4 @@ npm install bootstrap --save
 ng serve -o
 ng g c product-add --spec=false
 npm install ng2-slim-loading-bar --save
+npm install rxjs-compat --save
