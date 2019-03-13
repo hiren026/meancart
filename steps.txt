@@ -9,4 +9,9 @@ install Visual Studio Code
 npm install bootstrap --save
 ng serve -o
 ng g c product-add --spec=false
+<<<<<<< HEAD:stesp.txt
 
+=======
+npm install ng2-slim-loading-bar --save
+npm install rxjs-compat --save
+>>>>>>> f4e2feb69d3740d35b0be81e81e359b18f78adca:steps.txt
