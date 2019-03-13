@@ -8,3 +8,5 @@ cd meancart
 install Visual Studio Code
 npm install bootstrap --save
 ng serve -o
+ng g c product-add --spec=false
+
