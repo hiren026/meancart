@@ -18,7 +18,9 @@ npm init -y
 npm install --save express body-parser cors mongoose
 npm install nodemon --save-dev
 
-
+angular7cart >> ng serve -o
+api >> npm run start
+api >> mongod
 
 
 
